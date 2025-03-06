@@ -1,0 +1,6 @@
+[submodule "mylibgit"]
+	path = mylibgit
+	url = .\\mylibgit\\
+[submodule "gitignore"]
+	path = gitignore
+	url = .\\libgit2\\
