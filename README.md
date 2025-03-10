@@ -1,8 +1,19 @@
-# Test Project Directory
+# Mathematical Concepts in Applied and Engineering Mathematics  
 
-This is a test project dir for Git-related experimentation.
+This repository contains implementations of mathematical concepts from **Applied Mathematics** and **Advanced Engineering Mathematics** (Erwin Kreyszig), with a particular focus on **Control Theory**.  
 
----
+## 📌 Topics Covered  
+- Control Theory & Dynamical Systems  
+- Differential Equations & Numerical Methods  
+- Linear Algebra & Matrix Computations  
+- Optimization & Systems Analysis  
 
-** Note:** This is a dummy project and does not contain functional code or meaningufl content.
-**Note:** Note.
+## 🛠 Languages & Tools  
+- **Python** (NumPy, SciPy, Matplotlib, SymPy, Control Toolbox)  
+- **MATLAB** (Simulink, Control System Toolbox)  
+
+## 🚀 Getting Started  
+To use the Python implementations, install the required dependencies:  
+```bash
+pip install numpy scipy matplotlib sympy control
+
