@@ -10,7 +10,8 @@ This repository contains implementations of mathematical concepts from **Applied
 
 ## 🛠 Languages & Tools  
 - **Python** (NumPy, SciPy, Matplotlib, SymPy, Control Toolbox)  
-- **MATLAB** (Simulink, Control System Toolbox)  
+- **MATLAB** (Simulink, Control System Toolbox)
+- **C++/C/C#** 
 
 ## 🚀 Getting Started  
 To use the Python implementations, install the required dependencies:  
