@@ -13,9 +13,9 @@ def Legendre(x,n):
 for i in range(1,16):
     func = Legendre(xvals, i)
     plt.plot(xvals,func,label = "n = " + str(i))
-    
 
-plt.title("First 3 P_n(x)")
+
+plt.title("15 P_n(x)")
 plt.grid()
 plt.legend()
 plt.show()
